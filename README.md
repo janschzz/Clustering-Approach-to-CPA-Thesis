@@ -1,2 +1,2 @@
-# Clustering-Approach-to-CPA-Thesis
+# Clustering-Approach-to-CTA-Thesis
 Clustering-Approach-to-CPA-Thesis
