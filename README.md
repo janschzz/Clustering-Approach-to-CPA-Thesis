@@ -4,8 +4,8 @@ This repository contains the source code and supplementary materials related to 
 
 ## Files Overview
 
-### 1. SemJET (Jupyter Notebook)
-This folder contains two Jupyter Notebook for the baseline algorithm and the SemJET algorithm. The following steps will guide you to execute the algorithms:
+### 1. SemJET
+This folder contains two Jupyter Notebooks for the baseline algorithm and the SemJET algorithm. The following steps will guide you to execute the algorithms:
 
 - **Running the Algorithms:** To execute either the baseline or SemJET algorithm, run all the cells from the beginning up to and including the cell marked with `# Execute here`. Execution of this cell will start the chosen algorithm.
 - **Dependencies:** Please note that the execution may require specific Python packages. If you encounter any missing dependencies, kindly install them using your preferred package manager (e.g., pip, conda).
@@ -31,7 +31,7 @@ jupyter notebook
 
 ## Support and Contributions
 
-If you have any questions or need further clarification on any aspect of this project, please open an issue or contact me directly
+If you have any questions or need further clarification on any aspect of this project, please open an issue or contact me directly.
 
 ## Author
 
