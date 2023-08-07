@@ -29,7 +29,7 @@ Then, navigate to the repository directory and start Jupyter:
 
 jupyter notebook
 
-## Support and Contributions
+## Support
 
 If you have any questions or need further clarification on any aspect of this project, please open an issue or contact me directly.
 
