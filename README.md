@@ -11,7 +11,15 @@ This folder contains two Jupyter Notebooks for the baseline algorithm and the Se
 - **Dependencies:** Please note that the execution may require specific Python packages. If you encounter any missing dependencies, kindly install them using your preferred package manager (e.g., pip, conda).
 
 ### 2. Interval
-This file contains the simulation and all other results regarding the derived Interval. Detailed findings and methodologies are explored within the file. Those include the numerical approximation & curve fitting of the interval bounds, the simulation exploring its robustness, the shift of the mean-shift of the near-optimal k distribution when Dirichlet Parameter increase uniformly and the near-optimal k probability density for different underyling data distributions. The results here match exactly those displayed within the thesis.
+This file provides a comprehensive study on the derived Interval. Specifically, it offers:
+
+- **Numerical Approximations & Curve Fitting**: Interval derivation.
+- **Simulation**: Simulation used in thesis for exploring interval robustness.
+- **Mean-Shift Analysis**: Examining the changes in the mean-shift of the near-optimal `k` distribution as Dirichlet parameters increase uniformly.
+- **Near-Optimal `k` Density Analysis**: Exploring the probability density of near-optimal `k` across varying underlying data distributions.
+
+All results presented here are consistent with those showcased in the thesis.
+
 
 ## Installation and Setup
 
