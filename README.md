@@ -1,6 +1,6 @@
 # A Clustering Approach to Column Type Annotation: Effects of Pre-Clustering
 
-This repository contains the source code and supplementary materials related to my thesis, titled "A Clustering Approach to Column Type Annotation: Effects of Pre-Clustering." The repository consists of two key files detailed below.
+This repository contains the source code and supplementary materials related to my thesis, titled "A Clustering Approach to Column Type Annotation: Effects of Pre-Clustering". The repository consists of two key files detailed below.
 
 ## Files Overview
 
@@ -11,7 +11,7 @@ This folder contains two Jupyter Notebooks for the baseline algorithm and the Se
 - **Dependencies:** Please note that the execution may require specific Python packages. If you encounter any missing dependencies, kindly install them using your preferred package manager (e.g., pip, conda).
 
 ### 2. Interval
-This file contains the simulation and all other results regarding the derived Interval aspect of the thesis. Detailed findings and methodologies are explored within the file.
+This file contains the simulation and all other results regarding the derived Interval. Detailed findings and methodologies are explored within the file. Those include the numerical approximation & curve fitting of the interval bounds, the simulation exploring its robustness, the shift of the mean-shift of the near-optimal k distribution when Dirichlet Parameter increase uniformly and the near-optimal k probability density for different underyling data distributions. The results here match exactly those displayed within the thesis.
 
 ## Installation and Setup
 
